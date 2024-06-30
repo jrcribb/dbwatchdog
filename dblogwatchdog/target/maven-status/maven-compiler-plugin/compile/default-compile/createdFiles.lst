@@ -1,0 +1,4 @@
+com\jrcribb\watchdog\DbLogWatchdog.class
+com\jrcribb\watchdog\DatabaseConnection.class
+com\jrcribb\watchdog\Origen.class
+com\jrcribb\watchdog\OrigenDAO.class
